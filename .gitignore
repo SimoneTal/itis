@@ -1,4 +1,6 @@
+HEAD
 ***/alunno*.json
+>>>>>>> 2d1c3bc1b4eabdd9d0462c815e5e627a3c8a17f0
 **/keys/*
 # Local .terraform directories
 **/.terraform/*
